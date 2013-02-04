@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: anope 1.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-25 12:24-0300\n"
-"PO-Revision-Date: 2012-12-30 16:55-0300\n"
-"Last-Translator: Ciro Roberto <cirinho@canalbahia.net>\n"
+"PO-Revision-Date: 2013-02-04 00:58-0300\n"
+"Last-Translator: Fabio Morais <fabio@netsplit.org>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -6621,7 +6621,9 @@ msgstr ""
 
 #: modules/commands/bs_kick.cpp:984
 msgid "Stop flooding!"
-msgstr "Para de mandar várias linhas de texto em poucos segundos, isso atrapalha o andamento do chat."
+msgstr ""
+"Para de mandar várias linhas de texto em poucos segundos, isso atrapalha o "
+"andamento do chat."
 
 #: modules/commands/bs_kick.cpp:1000
 msgid "Stop repeating yourself!"
@@ -8429,7 +8431,7 @@ msgstr ""
 
 #: modules/commands/ms_set.cpp:47
 msgid "You will now be informed about new memos via email."
-msgstr ""
+msgstr "Agora você será informado sobre novos memos via e-mail."
 
 #: include/language.h:142
 msgid ""
